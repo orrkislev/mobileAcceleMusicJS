@@ -1,4 +1,4 @@
-# Movile Accelerometer Generative Music in JS
+# Mobile Accelerometer Generative Music in JS
 
 One Paragraph of project description goes here
 
